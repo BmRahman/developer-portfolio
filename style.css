@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6{
+ font-family: oswald;   
+}
+
+.wel{
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.world{
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.world .nam{
+    color: #FFA500;
+}
+.noob{
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.myself{
+    font-size: 20px;;
+}
+button{
+    padding: 10px 25px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+    background-color: #FF6B4E;
+    border: none;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.myself{
+    margin-bottom: 30px;
+}
+.container{
+    display: flex;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+}
+.first-half{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 180px;
+}
+.second-half{ 
+    width: 50%;
+}
+.two{
+    display: flex;
+}
+.dream{
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.fourth-half{
+    padding-left: 250px;
+    padding-top: 80px;
+}
