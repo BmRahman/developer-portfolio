@@ -58,6 +58,9 @@ button{
 }
 .two{
     display: flex;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right top;
 }
 .dream{
     font-size: 40px;
@@ -66,5 +69,10 @@ button{
 }
 .fourth-half{
     padding-left: 250px;
-    padding-top: 80px;
+}
+.ex{
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-left: 60px;
+    padding-top: 30px;
 }
